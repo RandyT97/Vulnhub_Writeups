@@ -42,10 +42,12 @@ MAC Address: 00:0C:29:78:29:0C (VMware)
 2. Lets take a look at the nmap
 	* We see some ports open but first we should take a look at the site since port 80 is open
 3. Taking a look at the webpage
-	* ![Screenshot][K1homepage]
+	
+    ![Screenshot][K1homepage]
 	* From the basic page we know that this is an Apache server running on Red Hat Linux
 	* Clicking on any of the links will take you to an error page like so:
-	* ![Screenshot][K1errorpage]
+	
+    ![Screenshot][K1errorpage]
 	* We now know it is running ```Apache 1.3.20```
 4. Checking if Apache 1.3.20 is vulnerable
 	* We're going to see whether 1.3.20 has published exploits using searchsploit which searches [Exploit-db](https://www.exploit-db.com/)
