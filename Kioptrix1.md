@@ -19,10 +19,10 @@
 
 ```
 
-	* From this output we can see on eth0:inet we have ```192.168.50.9/24```
-	* Map your local network to find the ip of the Vulnhub Machine
-	* ```nmap 192.168.50.9/24```
-	* 
+* 	 * From this output we can see on eth0:inet we have ```192.168.50.9/24```
+	 * Map your local network to find the ip of the Vulnhub Machine
+	 * ```nmap 192.168.50.9/24```
+
  ```
 Nmap scan report for 192.168.50.207
 Host is up (0.000072s latency).
@@ -37,7 +37,7 @@ PORT     STATE SERVICE
 MAC Address: 00:0C:29:78:29:0C (VMware)
 ```
 
-	* Our Vulnhub Machine is ```192.168.50.207
+*   * Our Vulnhub Machine is ```192.168.50.207
 2. Lets take a look at the nmap
 	* We see some ports open but first we should take a look at the site since port 80 is open
 3. Taking a look at the webpage
