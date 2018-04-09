@@ -95,5 +95,5 @@ MAC Address: 00:0C:29:78:29:0C (VMware)
 
 ROOTED!
 
-[K1homepage]: https://www.dropbox.com/s/9192w84xwyus448/K1homepage.png
-[K1errorpage]: https://www.dropbox.com/s/5cou9t1rg8r30wd/K1errorpage.png
+[K1homepage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K1homepage.png
+[K1errorpage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K1errorpage.png
