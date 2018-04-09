@@ -37,7 +37,8 @@ PORT     STATE SERVICE
 MAC Address: 00:0C:29:78:29:0C (VMware)
 ```
 
-*   * Our Vulnhub Machine is ```192.168.50.207
+
+*   * Our Vulnhub Machine is ```192.168.50.207```
 2. Lets take a look at the nmap
 	* We see some ports open but first we should take a look at the site since port 80 is open
 3. Taking a look at the webpage
@@ -93,3 +94,6 @@ MAC Address: 00:0C:29:78:29:0C (VMware)
 	* ```./openfuck 0x6b 192.168.50.207 443 -c 50```
 
 ROOTED!
+
+[K1homepage]: https://www.dropbox.com/s/9192w84xwyus448/K1homepage.png
+[K1errorpage]: https://www.dropbox.com/s/5cou9t1rg8r30wd/K1errorpage.png
