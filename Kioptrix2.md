@@ -223,11 +223,11 @@ sh-3.00#
 ```
 ROOTED
 
-[k2homepage]:
-[k2pingpage]:
-[k2errorpage]:
-[k2pingpage]: 
-[k2pingpage2]:
-[k2pingpage3]: 
+[k2homepage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K2homepage.png
+[k2pingpage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K2pingpage.png
+[k2errorpage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/k2errorpage.png
+[k2pingpage]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K2pingpage.png
+[k2pingpage2]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K2pingpage2.png
+[k2pingpage3]: https://github.com/jawyuhz/Vulnhub_Writeups/blob/master/Screenshots/K2pingpage3.png
 
 
